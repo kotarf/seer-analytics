@@ -1,5 +1,10 @@
+# Background
 This is a model testing project that takes as input data from the SEER database. This data is used to predict
-survivability outcomes of breast cancer patients. There are three distinct scripts that should be run in order:
+survivability outcomes of breast cancer patients. 
+
+## Instructions
+First install the requirements into a Python 3.12 environment.
+There are three distinct scripts that should then be run in order:
 
 * preprocessing.py
 * feature_selection.py
